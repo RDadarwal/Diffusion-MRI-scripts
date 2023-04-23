@@ -2,7 +2,7 @@
 Python scripts to analyze diffusion MRI data. 
 
 ### Dependencies
-Dependencies to use these Jupyter notebooks are:
+Dependencies to use these scripts are:
 * DIPY (https://dipy.org/)
 * Nipype (https://nipype.readthedocs.io/en/latest/)
 * FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
