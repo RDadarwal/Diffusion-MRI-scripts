@@ -1,5 +1,5 @@
 # Diffusion-MRI-scripts
-Pyton scripts to analyze diffusion MRI data. 
+Python scripts to analyze diffusion MRI data. 
 
 ### Dependencies
 Dependencies to use these Jupyter notebooks are:
