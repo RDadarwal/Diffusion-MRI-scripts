@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Diffusion DTI data analysis
-# #### Last updated on: 06/04/2023
+# # Diffusion DKI data analysis
+# #### Last updated on: 23/04/2023
 # #### Rakshit Dadarwal
 
 # ### import libraries
