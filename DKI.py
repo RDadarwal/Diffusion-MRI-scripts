@@ -19,8 +19,8 @@ import dipy.reconst.dki as dki
 
 # ### Define path
 # load MRI measurements scan list excel file
-data_path = "/home/rdadarwal/FID_Studies/FID_RD_UMG/Neuromelanin/"
-excel_file = "ScanList_test.xlsx"
+data_path = "/home/rdadarwal/"
+excel_file = "ScanList.xlsx"
 
 try:
     Siemens_meas = pd.read_excel(f"{data_path}{excel_file}", na_values="scalar")

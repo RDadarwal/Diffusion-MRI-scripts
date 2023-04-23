@@ -24,8 +24,8 @@ from dipy.segment.mask import median_otsu
 
 # ### Define path
 # load MRI measurements scan list excel file
-data_path = "/home/rdadarwal/FID_Studies/FID_RD_UMG/Neuromelanin/"
-excel_file = "ScanList_test.xlsx"
+data_path = "/home/rdadarwal/"
+excel_file = "ScanList.xlsx"
 dicom_prefix = "H"  # prefix for dicom files ["H" - Human; "M" - Macaque]
 
 try:
